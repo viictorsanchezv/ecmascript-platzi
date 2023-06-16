@@ -1,0 +1,2 @@
+//enahced object literals
+
